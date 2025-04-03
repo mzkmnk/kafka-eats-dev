@@ -6,6 +6,11 @@
   "scripts": {
     "build": "tsc"
   },
+  "engines": {
+    "pnpm": "10.6.1",
+    "npm": "please_use_pnpm_instead"
+  },
+  "packageManager": "pnpm@10.6.1",
   "dependencies": {},
   "devDependencies": {
     "typescript": "^5.5.3"
